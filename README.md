@@ -10,6 +10,6 @@ I'm Júlio Carneiro, I'm a Full Stack developer 👨‍💻 who is passionate ab
 - 🔭 I’m currently working on JavaScript and Flutter apps/systems
 - 🌱 I’m currently learning Dart, Flutter and of course JS improvments
 - 💬 Ask me about: tech, music production, terror series and a little bit about poker.
-- ⚡ Technologies: React, Node, React-Native, Dart, Flutter
+- ⚡ Technologies: Javascript, React, Node, React-Native, Dart, Flutter
 
 "Do not expect from others what you expect of yourself."
