@@ -1,7 +1,7 @@
 # Júlio Carneiro
 
-[![Linkedin Badge](https://img.shields.io/badge/-juliocarneiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliocarneiro/)](LinkedIn)
-[![Gmail Badge](https://img.shields.io/badge/-juliocarneiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliocarneiro@gmail.com)](E-mail)
+[![Linkedin Badge](https://img.shields.io/badge/-juliocarneiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliocarneiro/)](https://www.linkedin.com/in/juliocarneiro/)
+[![Gmail Badge](https://img.shields.io/badge/-juliocarneiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliocarneiro@gmail.com)](mailto:juliocarneiro@gmail.com)
 
 ## Hi 👋,
 
