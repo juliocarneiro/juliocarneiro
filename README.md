@@ -7,7 +7,7 @@
 
 ## Hi 👋,
 
-I'm Júlio Carneiro, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
+I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate about JavaScript and Dart technologies and its entire ecosystem.
 
 - 🔭 I’m currently working on JavaScript and Flutter apps/systems
 - 🌱 I’m currently learning Dart, Flutter and of course JS improvments
