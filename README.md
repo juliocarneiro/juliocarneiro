@@ -23,6 +23,7 @@ I'm Júlio Carneiro, I'm a Full Stack developer 👨‍💻 who is passionate ab
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
+![NextJs](https://img.shields.io/badge/-Nextjs-ffffff?style=flat&logoColor=fff&logo=nextjs)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;<br/>
 ![Dart](https://img.shields.io/badge/-Dart-84D6F8?style=flat&logoColor=fff&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-84D6F8?style=flat&logoColor=fff&logo=flutter)&nbsp;
