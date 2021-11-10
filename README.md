@@ -13,7 +13,7 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 - 🔭 I’m currently working on JavaScript and Flutter apps/systems
 - 🌱 I’m currently learning Dart, Flutter and of course JS improvments
 - 💬 Ask me about: tech, music production, terror series and a little bit about poker.
-- ⚡ Technologies: Javascript, React, Node, React-Native, Dart, Flutter
+- ⚡ Technologies: Javascript, React, Nextjs, Gatsby, Node, React-Native, Dart, Flutter
 
 ![juliocarneiro's github stats](https://github-readme-stats.vercel.app/api?username=juliocarneiro&show_icons=true&theme=tokyonight&hide=["contribs","prs","issues"])
 
