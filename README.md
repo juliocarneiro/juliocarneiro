@@ -10,10 +10,10 @@
 
 I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate about JavaScript and Dart technologies and its entire ecosystem.
 
-- 🔭 I’m currently working on JavaScript and Flutter apps/systems
-- 🌱 I’m currently learning Dart, Flutter and of course JS improvments
+- 🔭 I’m currently working on JavaScript, Nodejs, Strapi and Flutter apps/systems
+- 🌱 I’m currently learning InfoSec, Pentest and of course JS improvments
 - 💬 Ask me about: tech, music production, terror series and a little bit about poker.
-- ⚡ Technologies: Javascript, React, Nextjs, Gatsby, Node, React-Native, Dart, Flutter
+- ⚡ Technologies: Javascript, React, Nextjs, Gatsby, Node, React-Native, NodeJS, Strapi, Dart, Flutter, Python, Shell-script
 
 ![juliocarneiro's github stats](https://github-readme-stats.vercel.app/api?username=juliocarneiro&show_icons=true&theme=tokyonight&hide=["contribs","prs","issues"])
 
@@ -35,4 +35,4 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 ![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=flat&logoColor=fff&logo=prettier)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
 
-"Do not expect from others what you expect of yourself."
+"There is no patch for stupidity." - Kevin Mitnick
