@@ -8,10 +8,10 @@
 
 ## Hi 👋,
 
-I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate about JavaScript and Dart technologies and its entire ecosystem.
+I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate about JavaScript and Hacking technologies and its entire ecosystem.
 
 - 🔭 I’m currently working on JavaScript, Nodejs, Strapi and Flutter apps/systems
-- 🌱 I’m currently learning InfoSec, Pentest and of course JS improvments
+- 🌱 I’m currently learning InfoSec, Pentest, Bug Bunty and of course JS improvments
 - 💬 Ask me about: tech, music production, terror series and a little bit about poker.
 - ⚡ Technologies: Javascript, React, Nextjs, Gatsby, Node, React-Native, NodeJS, Strapi, Dart, Flutter, Python, Shell-script
 
