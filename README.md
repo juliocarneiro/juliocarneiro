@@ -15,7 +15,17 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 - 💬 Ask me about: tech, music production, terror series and a little bit about poker.
 - ⚡ Technologies: Javascript, React, Nextjs, Gatsby, React-Native, NodeJS, Strapi, Dart, Flutter, Python, Shell-script
 
-![juliocarneiro's github stats](https://github-readme-stats.vercel.app/api?username=juliocarneiro&show_icons=true&theme=tokyonight&hide=["contribs","prs","issues"])
+<table align="center">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarneiro&layout=compact&theme=react'>
+    </td>
+    <td>
+      <img height='200' src='https://github-readme-stats.vercel.app/api?username=juliocarneiro&show_icons=true&theme=react'>
+    </td>
+  </row>
+</table> 
 
 💻 📱 &nbsp; Programming: <br/>
 
@@ -34,5 +44,7 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logoColor=fff&logo=eslint)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=flat&logoColor=fff&logo=prettier)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
+![Python](https://img.shields.io/badge/-Python-5B9856?style=flat&logoColor=fff&logo=python)&nbsp;
+![Shell](https://img.shields.io/badge/-Shell-000000?style=flat&logoColor=&logo=shell)&nbsp;
 
 "There is no patch for stupidity." - Kevin Mitnick
