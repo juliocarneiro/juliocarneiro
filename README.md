@@ -1,7 +1,6 @@
 # Júlio Carneiro
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliocarneiro)](https://www.linkedin.com/in/juliocarneiro/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:juliocarneiro@gmail.com)](mailto:juliocarneiro@gmail.com)&nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=flat&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511953121823&text=Olá%20Júlio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)](https://api.whatsapp.com/send?phone=5511953121823&text=Olá%20Júlio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)&nbsp;
 
 ```js
@@ -20,8 +19,6 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 - 🌱 I’m currently learning InfoSec, Pentest, Bug Bounty and of course JS improvments
 - 💬 Ask me about: tech, music production, terror series and a little bit about poker.
 - ⚡ Technologies: Javascript, React, Nextjs, Gatsby, React-Native, NodeJS, Strapi, Dart, Flutter, Python, Shell-script
-
-![juliocarneiro's github stats](https://github-readme-stats.vercel.app/api?username=juliocarneiro&show_icons=true&theme=tokyonight&hide=["contribs","prs","issues"])
 
 <table align="center">
   <row>
