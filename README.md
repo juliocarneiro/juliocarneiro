@@ -1,10 +1,16 @@
 # Júlio Carneiro
 
-[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/juliocarneiro)](https://github.com/juliocarneiro)&nbsp;
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@juliocarneiro)](https://medium.com/@juliocarneiro)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliocarneiro)](https://www.linkedin.com/in/juliocarneiro/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:juliocarneiro@gmail.com)](mailto:juliocarneiro@gmail.com)&nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=flat&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511953121823&text=Olá%20Júlio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)](https://api.whatsapp.com/send?phone=5511953121823&text=Olá%20Júlio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)&nbsp;
+
+```js
+const importantLinks = {
+   📒 Medium: 'https://medium.com/@juliocarneiro', 
+   👨🏻‍💻 Portfolio: 'https://juliocarneiro.dev',
+   👋 Email: 'juliocarneiro@gmail.com',
+}
+```
 
 ## Hi 👋,
 
@@ -14,6 +20,8 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 - 🌱 I’m currently learning InfoSec, Pentest, Bug Bounty and of course JS improvments
 - 💬 Ask me about: tech, music production, terror series and a little bit about poker.
 - ⚡ Technologies: Javascript, React, Nextjs, Gatsby, React-Native, NodeJS, Strapi, Dart, Flutter, Python, Shell-script
+
+![juliocarneiro's github stats](https://github-readme-stats.vercel.app/api?username=juliocarneiro&show_icons=true&theme=tokyonight&hide=["contribs","prs","issues"])
 
 <table align="center">
   <row>
@@ -44,7 +52,5 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logoColor=fff&logo=eslint)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=flat&logoColor=fff&logo=prettier)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
-![Python](https://img.shields.io/badge/-Python-5B9856?style=flat&logoColor=fff&logo=python)&nbsp;
-![Shell](https://img.shields.io/badge/-Shell-000000?style=flat&logoColor=&logo=shell)&nbsp;
 
 "There is no patch for stupidity." - Kevin Mitnick
