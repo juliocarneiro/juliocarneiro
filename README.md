@@ -50,6 +50,7 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 ![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=flat&logoColor=fff&logo=prettier)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f0f052e0-7060-4337-9a58-9dea0782a780" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img height='110' src='https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png'>
+<img height='110' src='https://media-exp1.licdn.com/dms/image/C4D0BAQHU6IjKC-Rrug/company-logo_200_200/0/1632433929346?e=1654732800&v=beta&t=jJVUbshyZZ3I3E4JjKPTuTgw4OHYcdk3t_ajL9VTl0M'>
 
 "There is no patch for stupidity." - Kevin Mitnick
