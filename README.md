@@ -53,6 +53,8 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 <div style="display:flex;">
 <img width='110' src='https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png'>
 <img width='110' src='https://media-exp1.licdn.com/dms/image/C4D0BAQHU6IjKC-Rrug/company-logo_200_200/0/1632433929346?e=1654732800&v=beta&t=jJVUbshyZZ3I3E4JjKPTuTgw4OHYcdk3t_ajL9VTl0M'>
+   <img width='110' src='https://media-exp1.licdn.com/dms/image/C4E0BAQFn895zrLMCpQ/company-logo_200_200/0/1635901478742?e=1654732800&v=beta&t=cq1otcen6iY_SS1fooY7rdMzNOaIyG4gpIklCAojAkE'>
+   <img width='110' src='https://media-exp1.licdn.com/dms/image/C4D0BAQFRD_LpfY1iZw/company-logo_200_200/0/1620045342168?e=1654732800&v=beta&t=YelAu_wXNccCWIsv8kxDWBbFO01qlvEmylX_SX9mHAU'>
 </div>
 
 "There is no patch for stupidity." - Kevin Mitnick
