@@ -55,7 +55,7 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=for-the-badge&logoColor=fff&logo=styled-components)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-EA5E5E?style=for-the-badge&logoColor=fff&logo=docker)
 
-📚 &nbsp; Study: <br/>
+📚 &nbsp; Studying: <br/>
 
 ![](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
