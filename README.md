@@ -13,10 +13,10 @@ const importantLinks = {
 
 ## Hi 👋,
 
-I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate about JavaScript and Hacking technologies and its entire ecosystem.
+I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate about JavaScript, Devops and Hacking technologies and its entire ecosystem.
 
 - 🔭 I’m currently working on JavaScript/React, Nodejs, Strapi and Flutter apps/systems
-- 🌱 I’m currently learning InfoSec, Pentest, Bug Bounty and of course JS improvments
+- 🌱 I’m currently learning InfoSec, Pentest, Bug Bounty, Devops and of course JS improvments
 - 💬 Ask me about: tech, music production, terror series and a little bit about poker.
 - ⚡ Technologies: Javascript, React, Nextjs, Gatsby, React-Native, NodeJS, Strapi, Dart, Flutter, Python, Shell-script
 
@@ -37,24 +37,34 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 ![Linux](https://img.shields.io/badge/-Linux-EA5E5E?style=for-the-badge&logoColor=fff&logo=linux)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=for-the-badge&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=for-the-badge&logoColor=fff&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=for-the-badge&logoColor=fff&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=fff&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=for-the-badge&logoColor=fff&logo=react)&nbsp;
-![NextJs](https://img.shields.io/badge/-Nextjs-ffffff?style=for-the-badge&logoColor=000&logo=nextjs)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-EA5E5E?style=for-the-badge&logoColor=fff&logo=jest)&nbsp;
+![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-cdcdcd?style=for-the-badge&logo=jest&logoColor=red&color=yellow)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-EA5E5E?style=for-the-badge&logoColor=fff&logo=cypress)&nbsp;
-![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=for-the-badge&logoColor=fff&logo=react)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-84D6F8?style=for-the-badge&logoColor=fff&logo=dart)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-84D6F8?style=for-the-badge&logoColor=fff&logo=flutter)&nbsp;
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=for-the-badge&logoColor=fff&logo=node.js)&nbsp;
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-18BCEE?style=for-the-badge&logoColor=fff&logo=dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-18BCEE?style=for-the-badge&logoColor=fff&logo=flutter)&nbsp;
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsby-643195?style=for-the-badge&logoColor=fff&logo=gatsby)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E034A7?style=for-the-badge&logoColor=fff&logo=graphql)&nbsp;
 ![Strapi](https://img.shields.io/badge/-Strapi-18BCEE?style=for-the-badge&logoColor=fff&logo=strapi)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-18BCEE?style=for-the-badge&logoColor=fff&logo=express)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logoColor=fff&logo=eslint)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=for-the-badge&logoColor=fff&logo=prettier)&nbsp;
-![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=for-the-badge&logoColor=fff&logo=styled-components)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-EA5E5E?style=for-the-badge&logoColor=fff&logo=docker)
+![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GithubActions](https://img.shields.io/badge/Github-Actions-61dafb?style=for-the-badge&logo=github&logoColor=white&color=282c34)
+![](https://img.shields.io/badge/Babel-61dafb?style=for-the-badge&logo=babel&logoColor=yellow&color=282c34)
+![](https://img.shields.io/badge/Webpack-61dafb?style=for-the-badge&logo=webpack&logoColor=61dafb&color=282c34)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 📚 &nbsp; Studying: <br/>
 
@@ -65,6 +75,7 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Arduino-EA5E5E?style=for-the-badge&logoColor=fff&logo=arduino)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 📄 &nbsp; Certifications: <br/>
 
