@@ -46,6 +46,8 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=for-the-badge&logoColor=fff&logo=node.js)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsby-643195?style=for-the-badge&logoColor=fff&logo=gatsby)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E034A7?style=for-the-badge&logoColor=fff&logo=graphql)&nbsp;
+![Strapi](https://img.shields.io/badge/-Strapi-18BCEE?style=for-the-badge&logoColor=fff&logo=strapi)&nbsp;
+![Express](https://img.shields.io/badge/-Express-18BCEE?style=for-the-badge&logoColor=fff&logo=express)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logoColor=fff&logo=eslint)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=for-the-badge&logoColor=fff&logo=prettier)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=for-the-badge&logoColor=fff&logo=styled-components)&nbsp;
