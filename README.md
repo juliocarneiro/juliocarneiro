@@ -42,7 +42,7 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 ![NextJs](https://img.shields.io/badge/-Nextjs-ffffff?style=for-the-badge&logoColor=000&logo=nextjs)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-EA5E5E?style=for-the-badge&logoColor=fff&logo=jest)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-EA5E5E?style=for-the-badge&logoColor=fff&logo=cypress)&nbsp;
-![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=for-the-badge&logoColor=fff&logo=react)&nbsp;<br/>
+![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=for-the-badge&logoColor=fff&logo=react)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-84D6F8?style=for-the-badge&logoColor=fff&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-84D6F8?style=for-the-badge&logoColor=fff&logo=flutter)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=for-the-badge&logoColor=fff&logo=node.js)&nbsp;
