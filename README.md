@@ -51,6 +51,7 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logoColor=fff&logo=eslint)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=for-the-badge&logoColor=fff&logo=prettier)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=for-the-badge&logoColor=fff&logo=styled-components)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-EA5E5E?style=for-the-badge&logoColor=fff&logo=docker)
 
 📚 &nbsp; Study: <br/>
 
