@@ -34,6 +34,7 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 
 💻 📱 &nbsp; Programming: <br/>
 
+![Linux](https://img.shields.io/badge/-Linux-EA5E5E?style=for-the-badge&logoColor=fff&logo=linux)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=for-the-badge&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=for-the-badge&logoColor=fff&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=for-the-badge&logoColor=fff&logo=javascript)&nbsp;
@@ -63,6 +64,7 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 ![](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Arduino-EA5E5E?style=for-the-badge&logoColor=fff&logo=arduino)
 
 📄 &nbsp; Certifications: <br/>
 
