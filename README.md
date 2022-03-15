@@ -32,7 +32,7 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
   </row>
 </table> 
 
-💻 📱 &nbsp; Programming: <br/>
+💻 📱 &nbsp; Skills: <br/>
 
 ![Linux](https://img.shields.io/badge/-Linux-EA5E5E?style=for-the-badge&logoColor=fff&logo=linux)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=for-the-badge&logoColor=fff&logo=html5)&nbsp;
