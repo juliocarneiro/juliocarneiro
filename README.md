@@ -24,10 +24,10 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
   <row>
     <td>
      <!-- Card -->
-      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarneiro&layout=compact&theme=react'>
+      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarneiro&layout=compact&theme=default_repocard'>
     </td>
     <td>
-      <img height='200' src='https://github-readme-stats.vercel.app/api?username=juliocarneiro&show_icons=true&theme=react'>
+      <img height='200' src='https://github-readme-stats.vercel.app/api?username=juliocarneiro&show_icons=true&theme=default_repocard'>
     </td>
   </row>
 </table> 
