@@ -20,13 +20,13 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 - 💬 Ask me about: tech, music production, terror series and a little bit about poker.
 - ⚡ Technologies: Javascript, React, Nextjs, Gatsby, React-Native, NodeJS, Strapi, Dart, Flutter, Python, Shell-script
 
-<table align="center">
+<table align="center" style="padding: 0; margin: 0;">
   <row>
-    <td>
+    <td style="border: 0;">
      <!-- Card -->
       <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarneiro&layout=compact&theme=default_repocard'>
     </td>
-    <td>
+    <td style="border: 0;">
       <img height='200' src='https://github-readme-stats.vercel.app/api?username=juliocarneiro&show_icons=true&theme=default_repocard'>
     </td>
   </row>
