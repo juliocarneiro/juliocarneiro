@@ -16,7 +16,7 @@ const importantLinks = {
 I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate about JavaScript, Devops and Hacking technologies and its entire ecosystem.
 
 - 🔭 I’m currently working on JavaScript/Typescript, React/Next.js, Strapi and Node apps/systems
-- 🌱 I’m currently learning InfoSec, Pentest, Bug Bounty, Devops and of course JS improvments
+- 🌱 I’m currently learning Motion Design, Web3, Devops and of course JS improvments
 - 💬 Ask me about: tech, music production, terror series and a little bit about poker.
 - ⚡ Technologies: Javascript, React, Nextjs, Gatsby, React-Native, NodeJS, Strapi, Dart, Flutter, Python, Shell-script
 
