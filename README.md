@@ -65,11 +65,6 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Arduino-EA5E5E?style=for-the-badge&logoColor=fff&logo=arduino)
-
-📄 &nbsp; Certifications: <br/>
-
-<div style="display:flex;">
-<img width='110' src='https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png'>
-</div><br />
+<br />
 
 "There is no patch for stupidity." - Kevin Mitnick
