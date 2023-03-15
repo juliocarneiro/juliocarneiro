@@ -70,6 +70,7 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 📚 &nbsp; Projects: <br/>
 
 The Rolling Report - Jiu-Jitsu News (https://therollingreport.com)
-BJJ Hub - Search for academy in your country (https://bjjhub.com.br)
+
+BJJ Hub - Search for jiu-jitsu school in your country (https://bjjhub.com.br)
 
 "There is no patch for stupidity." - Kevin Mitnick
