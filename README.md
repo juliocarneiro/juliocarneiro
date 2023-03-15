@@ -67,4 +67,9 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 ![](https://img.shields.io/badge/-Arduino-EA5E5E?style=for-the-badge&logoColor=fff&logo=arduino)
 <br />
 
+📚 &nbsp; Projects: <br/>
+
+The Rolling Report - Jiu-Jitsu News (https://therollingreport.com)
+BJJ Hub - Search for academy in your country (https://bjjhub.com.br)
+
 "There is no patch for stupidity." - Kevin Mitnick
