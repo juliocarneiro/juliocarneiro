@@ -17,7 +17,7 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 
 - 🔭 I’m currently working on JavaScript/Typescript, React/Next.js, Strapi and Node apps/systems
 - 🌱 I’m currently learning Motion Design, Web3, Devops and of course JS improvments
-- 💬 Ask me about: tech, music production, terror series and a little bit about poker.
+- 💬 Ask me about: tech, music production, terror series and a little bit about jiu-jitsu.
 - ⚡ Technologies: Javascript, React, Nextjs, Gatsby, React-Native, NodeJS, Strapi, Dart, Flutter, Python, Shell-script
 
 
