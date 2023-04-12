@@ -73,6 +73,6 @@ The Rolling Report - Jiu-Jitsu News (https://therollingreport.com)
 
 Boxe Workout - Train boxing at home (https://boxeemcasa.com.br)
 
-Social Squad - Creative agency (https://bjjhub.com.br)
+Social Squad - Creative agency (https://socialsquad.com.br)
 
 "There is no patch for stupidity." - Kevin Mitnick
