@@ -71,6 +71,8 @@ I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate abou
 
 The Rolling Report - Jiu-Jitsu News (https://therollingreport.com)
 
-BJJ Hub - Search for jiu-jitsu school in your country (https://bjjhub.com.br)
+Boxe Workout - Train boxing at home (https://boxeemcasa.com.br)
+
+Social Squad - Creative agency (https://bjjhub.com.br)
 
 "There is no patch for stupidity." - Kevin Mitnick
