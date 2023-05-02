@@ -13,7 +13,7 @@ const importantLinks = {
 
 ## Hi 👋,
 
-I'm Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate about JavaScript, Devops and Hacking technologies and its entire ecosystem.
+Hi, my name is Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate about JavaScript, Devops and Hacking technologies and its entire ecosystem.
 
 - 🔭 I’m currently working on JavaScript/Typescript, React/Next.js, Strapi and Node apps/systems
 - 🌱 I’m currently learning Motion Design, Web3, Devops and of course JS improvments
