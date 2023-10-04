@@ -69,8 +69,6 @@ Hi, my name is Júlio Carneiro, I'm a Software Developer 👨‍💻 who is pass
 
 📚 &nbsp; Projects: <br/>
 
-The Rolling Report - Jiu-Jitsu News (https://therollingreport.com)
-
 Boxe Workout - Train boxing at home (https://boxeemcasa.com.br)
 
 "There is no patch for stupidity." - Kevin Mitnick
