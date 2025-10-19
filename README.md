@@ -69,6 +69,7 @@ Hi, my name is Júlio Carneiro, I'm a Software Developer 👨‍💻 who is pass
 
 📚 &nbsp; Projects: <br/>
 
-Boxe Workout - Train boxing at home (https://boxeemcasa.com.br)
+Magiscan - Quickly find prices for Magic: The Gathering cards. (https://magiscan.com.br)
+GrooveHub - Tool for DJs to organize and create memorable sets. (https://groovehub.app)
 
 "There is no patch for stupidity." - Kevin Mitnick
