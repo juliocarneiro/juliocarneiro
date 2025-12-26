@@ -6,7 +6,7 @@
 ```js
 const importantLinks = {
    📒 Medium: 'https://medium.com/@juliocarneiro', 
-   👨🏻‍💻 Portfolio: 'https://juliocarneiro.dev',
+   👨🏻‍💻 Portfolio: 'https://juliocarneiro.dev / https://juliocarneiro.art',
    👋 Email: 'juliocarneiro@gmail.com',
 }
 ```
@@ -67,9 +67,19 @@ Hi, my name is Júlio Carneiro, I'm a Software Developer 👨‍💻 who is pass
 ![](https://img.shields.io/badge/-Arduino-EA5E5E?style=for-the-badge&logoColor=fff&logo=arduino)
 <br />
 
-📚 &nbsp; Projects: <br/>
+📚 &nbsp; Personal Projects: <br/>
 
 - Magiscan - Quickly find prices for Magic: The Gathering cards. (https://magiscan.com.br)
 - GrooveHub - Tool for DJs to organize and create memorable sets. (https://groovehub.app)
+- 3D Guide - Professional guides for 3D artists. Tablet settings, shortcuts and optimized workflows. (https://3dguide.net)
+
+💼 &nbsp; Professional Projects: <br />
+
+Mitsubishi Motors - Official website for Mitsubishi Motors Brazil. (Next.js, Preact, TypeScript, Performance, SEO)
+Voa Health - AI system for medicine, focused on medical productivity. (Next.js, TypeScript, Zustand, LiveBlocks, Tiptap, Docker)
+Munchies Money - Web3 finance platform. (Next.js, TypeScript, Web3, Redux Toolkit, GraphQL, Apollo)
+HostGator Latin America - Maintenance and creation of features for critical projects like Checkout and Client Area. (Next.js, TypeScript, Redux/Saga, Jest, Docker, CI/CD)
+ClickBus - Initial product development contributor. (HTML, CSS, JavaScript, jQuery, SASS)
+Folha.com - Webmaster and systems monitoring. (HTML, CSS, JavaScript, Nagios, CMS)
 
 "There is no patch for stupidity." - Kevin Mitnick
