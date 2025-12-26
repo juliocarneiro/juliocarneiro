@@ -75,11 +75,11 @@ Hi, my name is Júlio Carneiro, I'm a Software Developer 👨‍💻 who is pass
 
 💼 &nbsp; Professional Projects: <br />
 
-Mitsubishi Motors - Official website for Mitsubishi Motors Brazil. (Next.js, Preact, TypeScript, Performance, SEO)
-Voa Health - AI system for medicine, focused on medical productivity. (Next.js, TypeScript, Zustand, LiveBlocks, Tiptap, Docker)
-Munchies Money - Web3 finance platform. (Next.js, TypeScript, Web3, Redux Toolkit, GraphQL, Apollo)
-HostGator Latin America - Maintenance and creation of features for critical projects like Checkout and Client Area. (Next.js, TypeScript, Redux/Saga, Jest, Docker, CI/CD)
-ClickBus - Initial product development contributor. (HTML, CSS, JavaScript, jQuery, SASS)
-Folha.com - Webmaster and systems monitoring. (HTML, CSS, JavaScript, Nagios, CMS)
+- Mitsubishi Motors - Official website for Mitsubishi Motors Brazil. (Next.js, Preact, TypeScript, Performance, SEO)
+- Voa Health - AI system for medicine, focused on medical productivity. (Next.js, TypeScript, Zustand, LiveBlocks, Tiptap, Docker)
+- Munchies Money - Web3 finance platform. (Next.js, TypeScript, Web3, Redux Toolkit, GraphQL, Apollo)
+- HostGator Latin America - Maintenance and creation of features for critical projects like Checkout and Client Area. (Next.js, TypeScript, Redux/Saga, Jest, Docker, CI/CD)
+- ClickBus - Initial product development contributor. (HTML, CSS, JavaScript, jQuery, SASS)
+- Folha.com - Webmaster and systems monitoring. (HTML, CSS, JavaScript, Nagios, CMS)
 
 "There is no patch for stupidity." - Kevin Mitnick
