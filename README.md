@@ -69,8 +69,6 @@ Hi, my name is Júlio Carneiro, I'm a Software Developer 👨‍💻 who is pass
 
 📚 &nbsp; Personal Projects: <br/>
 
-- Magiscan - Quickly find prices for Magic: The Gathering cards. (https://magiscan.com.br)
-- GrooveHub - Tool for DJs to organize and create memorable sets. (https://groovehub.app)
 - 3D Guide - Professional guides for 3D artists. Tablet settings, shortcuts and optimized workflows. (https://3dguide.info)
 
 💼 &nbsp; Professional Projects: <br />
