@@ -61,7 +61,7 @@ Hi, my name is Júlio Carneiro, I'm a Software Developer 👨‍💻 who is pass
 
 - 3D Guide - Professional guides for 3D artists. Tablet settings, shortcuts and optimized workflows. (https://3dguide.info)
 - ChordKit - Modern, accessible SVG chord diagram generator for any stringed instrument. Zero dependencies, ~6KB gzipped. (https://chordkit.vercel.app)
-- TabKit - Modern, responsive SVG tablature renderer for any stringed instrument. Zero dependencies, ~5KB gzipped. (https://tabkit.vercel.app)
+- TabKit - The responsive SVG tablature ecosystem. Features automatic reflow, audio synthesis, and ASCII/MusicXML parsing. Modular, accessible, and ~5KB gzipped core. (https://tabkit.vercel.app)
 
 💼 &nbsp; Professional Projects: <br />
 
