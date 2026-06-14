@@ -6,7 +6,6 @@
 ```js
 const links = {
    portfolio:  'https://juliocarneiro.dev',
-   email:      'juliocarneiro@gmail.com',
    cv:         'https://www.juliocarneiro.dev/cv.pdf',
    email:      'juliocarneiro@gmail.com',
    linkedin:   'https://linkedin.com/in/juliocarneiro',
