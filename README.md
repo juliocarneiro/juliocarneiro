@@ -1,75 +1,73 @@
- # Júlio Carneiro
+# Júlio Carneiro
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliocarneiro)](https://www.linkedin.com/in/juliocarneiro/)&nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=for-the-badge&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511953121823&text=Olá%20Júlio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)](https://api.whatsapp.com/send?phone=5511953121823&text=Olá%20Júlio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)&nbsp;
 
 ```js
-const importantLinks = {
-   📒 Medium: 'https://medium.com/@juliocarneiro', 
-   👨🏻‍💻 Portfolio: 'https://juliocarneiro.dev / https://juliocarneiro.art',
-   👋 Email: 'juliocarneiro@gmail.com',
+const links = {
+   portfolio:  'https://juliocarneiro.dev',
+   medium:     'https://medium.com/@juliocarneiro',
+   email:      'juliocarneiro@gmail.com',
 }
 ```
 
-## Hi 👋,
+## Hi 👋
 
-Hi, my name is Júlio Carneiro, I'm a Software Developer 👨‍💻 who is passionate about JavaScript, Devops and Hacking technologies and its entire ecosystem.
+I'm **Júlio Carneiro** — Senior Frontend Engineer with 15+ years building scalable web and mobile applications for SaaS, FinTech, Health, and Web3.
 
-- 🔭 I’m currently working on JavaScript/Typescript, React/Next.js, Strapi and Node apps/systems
-- 🌱 I’m currently learning Motion Design, Web3, Devops and of course JS improvments
-- 💬 Ask me about: tech, music production, terror series and a little bit about jiu-jitsu.
-- ⚡ Technologies: Javascript, React, Nextjs, Gatsby, React-Native, NodeJS, Strapi, Dart, Flutter, Python, Shell-script
+I specialize in **Frontend Architecture**, **Web Performance**, and **Developer Experience** — working with React, Next.js, TypeScript, and React Native. I have a background in Graphic Design and 3D modeling, which means I collaborate closely with UX/UI teams to ship interfaces that are visually precise, fast, and accessible.
 
+- 🔭 Currently at **VoA**, architecting the frontend v3 with Next.js, React Native, LiveBlocks, and Tiptap
+- 🎯 Achieved **100/100 on Google PageSpeed** for Mitsubishi Motors Brazil
+- 🧪 Delivered **100% unit test coverage** at Munchies (Jest + React Testing Library)
+- 🎨 Background in **Graphic Design** (Anhembi Morumbi) + **3D modeling** — ships interfaces with visual intention
+- 🔐 Certified in **Cybersecurity & Ethical Hacking** (CISCO, IBSEC, CSIRT, FIAP)
+- 💬 Ask me about: React architecture, Web Performance, Frontend tooling, or music production
+- ⚡ Currently exploring: advanced TypeScript patterns, accessibility engineering
 
-💻 📱 &nbsp; Skills: <br/>
+---
 
-![Linux](https://img.shields.io/badge/-Linux-EA5E5E?style=for-the-badge&logoColor=fff&logo=linux)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-E44D25?style=for-the-badge&logoColor=fff&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-254DE6?style=for-the-badge&logoColor=fff&logo=css3)&nbsp;
+💻 &nbsp; Stack: <br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=for-the-badge&logoColor=fff&logo=react)&nbsp;
-![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-cdcdcd?style=for-the-badge&logo=jest&logoColor=red&color=yellow)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-EA5E5E?style=for-the-badge&logoColor=fff&logo=cypress)&nbsp;
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-18BCEE?style=for-the-badge&logoColor=fff&logo=dart)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-18BCEE?style=for-the-badge&logoColor=fff&logo=flutter)&nbsp;
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Gatsby](https://img.shields.io/badge/-Gatsby-643195?style=for-the-badge&logoColor=fff&logo=gatsby)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-E034A7?style=for-the-badge&logoColor=fff&logo=graphql)&nbsp;
-![Strapi](https://img.shields.io/badge/-Strapi-18BCEE?style=for-the-badge&logoColor=fff&logo=strapi)&nbsp;
-![Express](https://img.shields.io/badge/-Express-18BCEE?style=for-the-badge&logoColor=fff&logo=express)&nbsp;
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logoColor=fff&logo=eslint)&nbsp;
-![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=for-the-badge&logoColor=fff&logo=prettier)&nbsp;
-![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GithubActions](https://img.shields.io/badge/Github-Actions-61dafb?style=for-the-badge&logo=github&logoColor=white&color=282c34)
-![](https://img.shields.io/badge/Babel-61dafb?style=for-the-badge&logo=babel&logoColor=yellow&color=282c34)
-![](https://img.shields.io/badge/Webpack-61dafb?style=for-the-badge&logo=webpack&logoColor=61dafb&color=282c34)
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
-![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/Snyk-000000?style=for-the-badge&logo=snyk&logoColor=white)
-<br />
+![React](https://img.shields.io/badge/React-18BCEE?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-18BCEE?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQL-E034A7?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-282c34?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-EA5E5E?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 
-📚 &nbsp; Personal Projects: <br/>
+---
 
-- 3D Guide - Professional guides for 3D artists. Tablet settings, shortcuts and optimized workflows. (https://3dguide.info)
-- ChordKit - Modern, accessible SVG chord diagram generator for any stringed instrument. Zero dependencies, ~6KB gzipped. (https://chordkit.vercel.app)
-- TabKit - The responsive SVG tablature ecosystem. Features automatic reflow, audio synthesis, and ASCII/MusicXML parsing. Modular, accessible, and ~5KB gzipped core. (https://tabkitlib.vercel.app)
+📚 &nbsp; Open Source & Personal Projects: <br/>
 
-💼 &nbsp; Professional Projects: <br />
+- **[3dguide.info](https://3dguide.info)** — Reference guide for 3D artists: shortcuts, tablet settings, and optimized workflows
+- **[ChordKit](https://chordkit.vercel.app)** — React library for musical chord diagrams. Accessible SVG, zero dependencies, ~6KB gzipped
+- **[TabKit](https://tabkit.vercel.app)** — React library for musical tablatures. Responsive SVG, audio synthesis, ASCII/MusicXML parsing, ~5KB core
+- **[boilerplate-next-ts](https://github.com/juliocarneiro/boilerplate-next-ts)** — Opensource Next.js + TypeScript boilerplate
+- **[node-ts-boilerplate](https://github.com/juliocarneiro/node-ts-boilerplate)** — Opensource API boilerplate with Express + TypeScript + Prisma
 
-- Mitsubishi Motors - Official website for Mitsubishi Motors Brazil. (Next.js, Preact, TypeScript, Performance, SEO)
-- Voa Health - AI system for medicine, focused on medical productivity. (Next.js, TypeScript, Zustand, LiveBlocks, Tiptap, Docker)
-- Munchies Money - Web3 finance platform. (Next.js, TypeScript, Web3, Redux Toolkit, GraphQL, Apollo)
-- HostGator Latin America - Maintenance and creation of features for critical projects like Checkout and Client Area. (Next.js, TypeScript, Redux/Saga, Jest, Docker, CI/CD)
-- ClickBus - Initial product development contributor. (HTML, CSS, JavaScript, jQuery, SASS)
-- Folha.com - Webmaster and systems monitoring. (HTML, CSS, JavaScript, Nagios, CMS)
+---
 
-"There is no patch for stupidity." - Kevin Mitnick
+💼 &nbsp; Professional Highlights: <br/>
+
+- **VoA** — Real-time collaborative editing (LiveBlocks + Tiptap), Headless CMS, React Native apps for AI-powered medical assistance
+- **Munchies** — Web3 platform with Wagmi + Ethers.js for smart contract interactions; 100% test coverage
+- **HostGator LATAM** — Checkout, Cart, Client Area and Chat flows impacting revenue across Latin America
+- **Mobiauto / Mitsubishi** — 100/100 Google PageSpeed on strategic pages
+- **ClickBus, Folha de S.Paulo** — Early-career foundation in large-scale web systems
+
+---
+
+> *"There is no patch for stupidity."* — Kevin Mitnick
