@@ -29,21 +29,52 @@ I specialize in **Frontend Architecture**, **Web Performance**, and **Developer 
 
 💻 &nbsp; Stack: <br/>
 
+**Languages & Core**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E44D25?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-18BCEE?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-18BCEE?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![GraphQL](https://img.shields.io/badge/GraphQL-E034A7?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)&nbsp;
+
+**State Management & Data Fetching**
+
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQL-E034A7?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)&nbsp;
+
+**Web3**
+
+![Wagmi](https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logoColor=white)&nbsp;
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logoColor=white)&nbsp;
+
+**Backend & Infra**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+
+**Testing & Quality**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)&nbsp;
+
+**DevOps & Tools**
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-282c34?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-EA5E5E?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
