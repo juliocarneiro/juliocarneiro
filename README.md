@@ -6,8 +6,15 @@
 ```js
 const links = {
    portfolio:  'https://juliocarneiro.dev',
-   medium:     'https://medium.com/@juliocarneiro',
    email:      'juliocarneiro@gmail.com',
+   cv:         'https://www.juliocarneiro.dev/cv.pdf',
+   email:      'juliocarneiro@gmail.com',
+   linkedin:   'https://linkedin.com/in/juliocarneiro',
+   github:     'https://github.com/juliocarneiro',
+   medium:     'https://medium.com/@juliocarneiro',
+   devto:      'https://dev.to/juliocarneiro',
+   artstation: 'https://www.artstation.com/juliocarneiro',
+   tryhackme:  'https://tryhackme.com/p/juliocarneiro',
 }
 ```
 
