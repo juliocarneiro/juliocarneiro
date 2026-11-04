@@ -134,8 +134,7 @@ I specialize in **Frontend Architecture**, **Web Performance**, and **Developer 
 - **[3dguide.info](https://3dguide.info)** — Reference guide for 3D artists: shortcuts, tablet settings, and optimized workflows
 - **[ChordKit](https://chordkit.vercel.app)** — React library for musical chord diagrams. Accessible SVG, zero dependencies, ~6KB gzipped
 - **[TabKit](https://tabkit.vercel.app)** — React library for musical tablatures. Responsive SVG, audio synthesis, ASCII/MusicXML parsing, ~5KB core
-- **[boilerplate-next-ts](https://github.com/juliocarneiro/boilerplate-next-ts)** — Opensource Next.js + TypeScript boilerplate
-- **[node-ts-boilerplate](https://github.com/juliocarneiro/node-ts-boilerplate)** — Opensource API boilerplate with Express + TypeScript + Prisma
+- **[Archipelago](https://github.com/juliocarneiro/archipelago-mfe)** — Production-minded micro frontend boilerplate — Module Federation 2.0, Rsbuild, React 19, TypeScript, Tailwind v4 and Turborepo.
 
 ---
 
