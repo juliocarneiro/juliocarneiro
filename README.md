@@ -134,7 +134,8 @@ I specialize in **Frontend Architecture**, **Web Performance**, and **Developer 
 - **[3dguide.info](https://3dguide.info)** — Reference guide for 3D artists: shortcuts, tablet settings, and optimized workflows
 - **[ChordKit](https://chordkit.vercel.app)** — React library for musical chord diagrams. Accessible SVG, zero dependencies, ~6KB gzipped
 - **[TabKit](https://tabkit.vercel.app)** — React library for musical tablatures. Responsive SVG, audio synthesis, ASCII/MusicXML parsing, ~5KB core
-- **[Archipelago](https://github.com/juliocarneiro/archipelago-mfe)** — Production-minded micro frontend boilerplate — Module Federation 2.0, Rsbuild, React 19, TypeScript, Tailwind v4 and Turborepo.
+- **[Archipelago](https://github.com/juliocarneiro/archipelago-mfe)** — Production-minded micro frontend boilerplate.
+- **[FrontGuard](https://github.com/juliocarneiro/frontguard)** — Open-source frontend security scanner that catches vulnerabilities before they ship. 
 
 ---
 
