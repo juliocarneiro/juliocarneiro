@@ -29,7 +29,7 @@ I specialize in **Frontend Architecture**, **Web Performance**, **Security** and
 - 🎯 **100/100 on Google PageSpeed** for Mitsubishi Motors Brazil and VoA's key pages
 - 🧪 **100% unit test coverage** at Munchies (Jest + React Testing Library)
 - 🚀 Built and run two SaaS products of my own: **[MotoDeck](https://www.motodeck.com.br)** and **[UnderPass](https://www.underpass.com.br)**
-- 📦 Libraries published on **npm**: ChordKit (6 packages) and TabKit (5 packages)
+- 📦 Libraries published on **npm**: salve-css, salve-icons, ChordKit (6 packages) and TabKit (5 packages)
 - 🔐 Certified in **Cybersecurity & Ethical Hacking** (Cisco, IBSEC, CSIRT) — author of **FrontGuard**, an open source frontend security scanner
 - 🎨 Studying **Graphic Design** (Anhembi Morumbi) — 3D, packshots and video at [juliocarneiro.art](https://juliocarneiro.art)
 - ✍️ 10 articles on React, React Native and web security for **Tableless**, **React Brasil** and my [blog](https://medium.com/@juliocarneiro)
@@ -177,6 +177,8 @@ I specialize in **Frontend Architecture**, **Web Performance**, **Security** and
 
 📚 &nbsp; Open Source & Personal Projects: <br/>
 
+- **[salve-css](https://github.com/juliocarneiro/salve-css)** — Pure-CSS design system on [npm](https://www.npmjs.com/package/salve-css) that fixes everyday CSS pains: cascade layers so your CSS always wins, a 4-variable OKLCH theme, automatic dark mode, intrinsic layouts with no media queries, native accessible components and utilities. Zero build, SSR-ready
+- **[salve-icons](https://github.com/juliocarneiro/salve-icons)** — 292 stroke icons on [npm](https://www.npmjs.com/package/salve-icons), social brands included, that inherit color and size from text: CSS classes, React components (Server Components friendly), SVG sprite, JS module or `<s-icon>` web component
 - **[FrontGuard](https://github.com/juliocarneiro/frontguard)** — Open source frontend security scanner (TS, JS, React, Vue, Angular, Svelte): XSS, 149+ secret patterns, insecure auth and vulnerable dependencies, with SARIF reports for CI/CD
 - **[Archipelago](https://github.com/juliocarneiro/archipelago-mfe)** — Production-minded micro frontend boilerplate: Module Federation 2.0, Rsbuild, React 19, Tailwind v4 and Turborepo, with typed contracts and failure isolation
 - **[ChordKit](https://chordkit.vercel.app)** — Music chord library on [npm](https://www.npmjs.com/package/chordkit) (6 packages): accessible SVG diagrams, MIDI/audio detection and a theory engine, ~6KB gzipped
