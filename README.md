@@ -28,7 +28,7 @@ I specialize in **Frontend Architecture**, **Web Performance**, **Security** and
 - 🔭 Currently at **VoA Health**, leading the frontend architecture: Next.js, real-time collaboration (Liveblocks + Tiptap) and mobile apps in **React Native, Flutter and Capacitor**
 - 🎯 **100/100 on Google PageSpeed** for Mitsubishi Motors Brazil and VoA's key pages
 - 🧪 **100% unit test coverage** at Munchies (Jest + React Testing Library)
-- 🚀 Built and run two SaaS products of my own: **[MotoDeck](https://www.motodeck.com.br)** and **[UnderPass](https://www.underpass.com.br)**
+- 🚀 Built and run two products of my own: **[MotoDeck](https://www.motodeck.com.br)** and **[Saideira](https://saideira.club)**
 - 📦 Libraries published on **npm**: salve-css, salve-icons, ChordKit (6 packages) and TabKit (5 packages)
 - 🔐 Certified in **Cybersecurity & Ethical Hacking** (Cisco, IBSEC, CSIRT) — author of **FrontGuard**, an open source frontend security scanner
 - 🎨 Studying **Graphic Design** (Anhembi Morumbi) — 3D, packshots and video at [juliocarneiro.art](https://juliocarneiro.art)
@@ -171,7 +171,7 @@ I specialize in **Frontend Architecture**, **Web Performance**, **Security** and
 🚀 &nbsp; Products I built and run: <br/>
 
 - **[MotoDeck](https://www.motodeck.com.br)** — SaaS for motorcycle repair shops: digital work orders, drag-and-drop kanban yard, stock alerts, scheduling and quotes approved and signed by the customer on the phone via WhatsApp (Next.js, Vercel)
-- **[UnderPass](https://www.underpass.com.br)** — Events platform for the underground scene: map of shows and rap battles, tickets with PIX and card via Mercado Pago paid straight to promoters, QR check-in and MC sign-ups (Next.js, Supabase)
+- **[Saideira](https://saideira.club)** — Offline-first system for bars and nightclubs: runs on the venue's own computer and serves the team's phones over the house Wi-Fi, with QR tabs, waiters ordering from their phones, kitchen and bar screens on the TV, door control with minimum spend, PIX, cash register and stock by the shot. If the internet drops on a Saturday night, nothing stops (Electron, React, Fastify, SQLite)
 
 ---
 
